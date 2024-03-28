@@ -1,0 +1,5 @@
+# for 3.1_My project (folder)
+    -open terminal
+    - write command, npm init
+    - then, npm install give-me-a-joke
+    - then, for importAndExport.js file and script.js file install, npm install random-words
