@@ -22,3 +22,12 @@
     .help gives us commands
 
 # #########################################################################################
+
+# module.exports
+    requiring files
+        require()  a built-in function to include external modules that exist in separate files.
+        module.exports   a special object  
+
+# #########################################################################################
+
+

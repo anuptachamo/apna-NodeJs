@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "figlet": "^1.7.0"
-  }
+  },
+  "name": "3_figletdir-exampleofnpmpackages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anup tachamo",
+  "license": "ISC",
+  "description": ""
 }
