@@ -1,0 +1,5 @@
+NPM (Node package Manager)
+    NPM is the standard package Manager for Node.js.
+        - library of packages
+        - command line tool
+        - after installing node npm will pre installed.

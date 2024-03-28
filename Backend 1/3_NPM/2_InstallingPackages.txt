@@ -1,0 +1,14 @@
+installing packages [explore more with clicking this link https://www.npmjs.com/]
+    1. npm install <-package name ->
+
+
+    After installing packages, for example:
+    I have installed figlet package 
+        HOW TO INSTALLED IT
+            - open terminal
+            - write npm install figlet
+            - After, installation, there will be folder node_modules and files names package.json and package-lock.json 
+                so, Now let know what is node_modules and package-lock.json
+                    - node_modules  => The node_modules folder contains every installed dependency for your project.
+                    - package-lock.json  => It records the exact version of every installed dependency including its sub-dependencies and their versions.
+                    - package.json  => The package.json file contains descriptive and functional metadata about a project, such as a name version, and dependencies
