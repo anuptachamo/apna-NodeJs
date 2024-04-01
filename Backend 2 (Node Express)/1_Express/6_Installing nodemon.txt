@@ -1,0 +1,13 @@
+# npm install nodemon
+    Automatically restarts your Node.js server when code changes are detected.
+
+    Hoe to install nodemon?
+        - open terminal
+        - npm install -g nodemon (installing nodemon globally is good way)
+        - After installation, 
+            change in package.json file
+                "scripts": {
+                    "start": "nodemon index.js"
+                }
+
+        - after this change you only to write a command npm start for starting server

@@ -1,0 +1,5 @@
+# Routing [It is process of selecting a path for traffic in a network or between or across multiple networks.]
+    Routing defines how the client requests are handled by the application endpoints. Routing in Node refers to the process of determining how an application responds to client requests to different endpoints (URLs). In a web application, these endpoints typically correspond to different pages or functionalities within the application. Node.js, along with frameworks like Express, provides a way to define routes, which are responsible for handling specific HTTP requests and sending back appropriate responses.
+
+
+    - for more click https://www.geeksforgeeks.org/routing-in-node-js/

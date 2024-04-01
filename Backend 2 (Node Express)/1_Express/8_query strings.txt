@@ -1,0 +1,11 @@
+# Query strings
+    req.query
+
+app.get("/search", (req, res) => {
+  let { q } = req.query;
+  if (!q) {
+    res.send("nothing search");
+  } else {
+    res.send(`search result for query: ${q}`);
+  }
+});

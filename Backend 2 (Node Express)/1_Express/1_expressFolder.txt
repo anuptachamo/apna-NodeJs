@@ -1,0 +1,4 @@
+followed this steps in express folder
+    1. npm init
+    2. npm install express
+    3. npm install -g nodemon (Automatically restarts when code change)

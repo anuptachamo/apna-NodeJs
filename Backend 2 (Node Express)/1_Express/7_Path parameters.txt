@@ -1,0 +1,9 @@
+# Path paramenters
+    req.params
+     
+     app.get("/id/:username", (req, res) =>{
+        let {username} = req.params;
+        res.send(`This account belongs to @${username}`);
+     });
+
+     
